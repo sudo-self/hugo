@@ -1,0 +1,2 @@
+# HUGO
+static website template
